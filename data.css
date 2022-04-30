@@ -1,0 +1,29 @@
+.button{
+    vertical-align: middle;
+    display: inline-block;
+    text-align: center;
+    width: 120px;
+    color: #8d8dd5;
+    padding-left: 3x;
+    font-size: xx-large;
+    text-align: center;
+    width: 150px;
+    height: 140px;
+    margin-left: 660px;
+ margin-top: 250px;
+ 
+ }
+ .button_text{
+     color: rgb(27, 16, 16);
+     display: block;
+     margin-left: 645px;
+     font-size:large;
+     letter-spacing: 2px;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     
+ }
+ .button_icon{
+     font-size:100px;
+     
+ }
+ 
